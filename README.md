@@ -21,6 +21,7 @@ I&nbsp;mainly code in **`Python 3`** (FastAPI, Robot Framework &&nbsp;5G/network
 
 🌱 I’m currently learning:
 -  **FastAPI** (and I'm developing in more advanced topics in **Python**)
+-  **React.js** to develop pleasing user interfaces
 -  **Linux** (mostly for admin and devops things)
 -  **Latex** in which I'm creating aesthetically pleasing documents (now my thesis)
 <!--
